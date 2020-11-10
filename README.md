@@ -1,4 +1,4 @@
-# bot
+# jodc-bot
 JIITODC's very own telegram bot!
 
 Take a look at the [contributing guide](CONTRIBUTING.md) to get started!
