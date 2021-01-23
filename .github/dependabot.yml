@@ -1,0 +1,11 @@
+# Basic dependabot config for python dependencies
+
+version: 2
+updates:
+  # Maintain python dependencies
+  - package-ecosystem: "pip"
+    # Look for requirements.txt in root directory
+    directory: "/"
+    # check for updates weekly
+    schedule:
+      interval: "weekly"
